@@ -1,3 +1,3 @@
-phone
-pc
-joystick
+- phone
+- pc
+- joystick
